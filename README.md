@@ -14,6 +14,9 @@ A program that allows people to share their unused internet bandwidth and get pa
 - Cross platform - Windows/macOS/Linux
 - Lightweight
 
+## Screenshots
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1027206163860836432/1142845066331832340/Xnip2023-08-20_17-37-25.png)
 
 ## Installation
 
