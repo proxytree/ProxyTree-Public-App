@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/1027206163860836432/1143213648316215397/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://cdn.discordapp.com/attachments/1027206163860836432/1143215590278975498/agjfghfjgh.png)
 
 
 # 🌳 ProxyTree Public App
