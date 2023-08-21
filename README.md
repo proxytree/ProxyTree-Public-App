@@ -1,22 +1,35 @@
+
+![Logo](https://cdn.discordapp.com/attachments/1027206163860836432/1143213648316215397/th5xamgrr6se0x5ro4g6.png)
+
+
 # 🌳 ProxyTree Public App
 
 A program that allows people to share their unused internet bandwidth and get paid for it.
 
-# 🎀 Features
 
--   Made by Coddo
--   Made in Electron
 
-# 🤓 Insatllation
+## Features
 
--   Have at least 3 brain cells before proceeding with the installation
--   Head over to `Releases` and grab the latest file for your operating system
--   Run the file you've just downloaded
+- Make money from your unused internet bandwidth
+- Cross platform - Windows/macOS/Linux
+- Lightweight
 
-# 🧦 Contributing
 
-- Use GitHub and create a Pull Request. Any contributions are appreciated.
+## Installation
 
-# 📄 Copyrights
+- Go to `Releases` and pick the executable installer for your operating system
+- Open it and install the app
+    
+## Contributing
 
-Copyrights for `public/favicon.ico`, `public/icon.ico` and `public/icon.png` are owned by [Brawlhalla, Blue Mammoth Games](https://www.brawlhalla.com/)
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Support
+
+For support, email info@proxytree.net or join our [Discord server](https://discord.com/invite/9NFW5mSbGK).
+
